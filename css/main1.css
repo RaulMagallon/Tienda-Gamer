@@ -1,0 +1,315 @@
+*{
+	margin: auto;
+}
+
+header{
+	margin: auto;
+	background-color: #88001b;
+	width: : 1050px;
+	padding: 37px 30px
+}
+
+.logo{
+	text-align: center;
+	color: white;
+	font-family: cursive;
+	margin-left: 10px;
+    margin-top: -14px;
+}
+
+section{
+	margin: auto;
+	background-color: white;
+	height: 500px;
+}
+
+.registro h1{
+	text-align: center;
+	color: #88001b;
+	font-family: cursive;
+	padding-top: 80px;
+	padding-top: 4px;
+    padding-left: 28px;
+    font-size: 47px;
+}
+
+.datos h1{
+	text-align: left;
+	color: #88001b;
+	font-family: cursive;
+	font-size: 31px;
+    padding-top: 15px;
+    padding-left: 21px;
+}
+
+.nombre input{
+	padding-left: 24px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-left: 18px;
+}
+
+.nombre select{
+	 padding-top: 3px;
+    margin-top: 10px;
+    margin-left: 26px;
+}
+
+.datos h3{
+	text-align: left;
+	color: #88001b;
+	font-family: cursive;
+	margin-left: 37px;
+    margin-top: -22px;
+}
+
+.mujer input{
+	padding-top: 10px;
+	padding-left: 24px;
+}
+
+.boton button {
+	color: #ffffff;
+	background-color: #88001b;
+	font-size: 31px;
+    margin-top: -54px;
+    margin-left: 361px;;
+    padding: 20px 30px;
+}
+
+footer{
+	margin-top: 530px;
+    width: 95%;
+    height: 168%;
+    background-color: #88001b;
+    padding: 32px;
+}
+
+.redes i{
+	color:  #ffffff;
+}
+
+.redes li{
+	list-style: none;
+    text-decoration: none;
+    float: right;
+    margin-right: 332px;
+    font-size: 31px;
+}
+
+.redes i:hover{
+	color:  #a2c3c3;
+}
+
+.registro a{
+	color: black;
+	padding-top: 10px;
+    float: right;
+    margin-right: 176px;
+    font-size: 33px;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+.registro a:hover{
+	color: #88001b;
+}
+
+.imagen img{
+	float: right;
+	width: 586px;
+    margin-top: 108px;
+    margin-right: -173px;
+}
+
+
+carrito header{
+	margin: auto;
+	background-color: #88001b;
+	width: : 1050px;
+	padding: 37px 30px
+}
+
+carrito .logo{
+	text-align: center;
+	color: white;
+	font-family: cursive;
+	margin-left: 10px;
+    margin-top: -14px;
+}
+
+
+carrito section{
+	margin: auto;
+	background-color: white;
+	height: 500px;
+}
+
+.compra h1{
+	text-align: center;
+	color: #88001b;
+	font-family: cursive;
+	margin: 30px;
+	font-size: 30px;
+}
+
+.tabla li{
+	text-decoration: none;
+	display: inline-block;
+	padding-left: 230px;
+    padding-right: 45px;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: 28px;
+    color: #88001b;
+	font-family: cursive;
+}
+
+
+.productos img{
+	width: 243px;
+}
+
+.productos1 img{
+	width: 243px;
+}
+
+.venta li{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+    padding-left: 283px;
+}
+
+.boton button {
+	color: #ffffff;
+	background-color: #88001b;
+	float: left;
+    margin: auto;
+   	margin-left: 407px;
+    margin-top: 37px;
+    padding: 10px; 
+}
+
+.boton button:hover{
+	color: #a2c3c3;
+}
+
+.regreso a{
+	color: black;
+	padding-top: 43px;
+    float: right;
+    margin-right: 176px;
+    font-size: 33px;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+.regreso a:hover{
+	color: #88001b;
+}
+
+
+login header{
+	margin: auto;
+	background-color: #88001b;
+	width: : 1050px;
+	padding: 37px 30px
+}
+
+login .logo{
+	text-align: center;
+	color: white;
+	font-family: cursive;
+	margin-left: 10px;
+    margin-top: -14px;
+}
+
+login section{
+	margin: auto;
+    background-color: white;
+    height: 5px;
+}
+
+.sesion h1{
+	text-align: center;
+	color: #88001b;
+	font-family: cursive;
+	margin: 30px;
+	font-size: 30px;
+}
+
+.login h1{
+	color: #88001b;
+	font-family: cursive;
+	text-align: center;
+	margin-top: 24px;
+}
+
+.login input{
+	padding-left: 10px;
+	margin-left: 591px;
+    margin-top: 13px;
+}
+
+.boton button {
+	color: #ffffff;
+	background-color: #88001b;
+	float: left;
+    margin: auto;
+   	margin-left: 407px;
+    margin-top: 37px;
+    padding: 10px; 
+}
+
+.boton a{
+	text-decoration: none;
+	color:#ffffff;
+}
+
+.boton a:hover{
+	color: #a2c3c3;
+}
+
+.boton2 button{
+	text-decoration: none;
+    background-color: #88001b;
+    margin-top: 44px;
+    margin-left: 27px;
+    font-size: 30px;
+    padding: 8px;
+}
+
+.boton2 a{
+	text-decoration: none;
+	color:#ffffff;
+}
+
+.boton2 a:hover{
+	color: #a2c3c3;
+}
+
+login footer {
+	margin-top: 5px;
+    width: 95%;
+    height: 168%;
+    background-color: #88001b;
+    padding: 32px;
+}
+
+.redes i{
+	color:  #ffffff;
+}
+
+.redes li{
+	list-style: none;
+    text-decoration: none;
+    float: right;
+    margin-right: 332px;
+    font-size: 31px;
+}
+
+.redes i:hover{
+	color:  #a2c3c3;
+}
+

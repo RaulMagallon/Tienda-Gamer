@@ -1,0 +1,107 @@
+*{
+	margin: auto;
+}
+
+header{
+	margin: auto;
+	background-color: #88001b;
+	width: : 1050px;
+	padding: 37px 30px
+}
+
+.logo{
+	text-align: center;
+	color: white;
+	font-family: cursive;
+	margin-left: 10px;
+    margin-top: -14px;
+}
+
+section{
+	margin: auto;
+	background-color: white;
+	height: 500px;
+}
+
+.info li{
+	text-decoration: none;
+	display: inline-block;
+	padding-left: 284px;
+    margin-top: 27px;
+    font-size: 30px;
+    color: #88001b;
+    font-family: cursive;
+}
+
+.imagenes img{
+	width: 197px;
+	 margin-left: 264px;
+    border-radius: 50%;
+    margin-top: 11px;
+}
+
+.bloque img{
+	width: 173px;
+    border-radius: 50%;
+    margin-top: -207px;
+    margin-left: 632px
+}
+
+.bloque1 img{
+	 width: 239px;
+    border-radius: 50%;
+    margin-left: 602px;
+}
+
+.bloque2 img{
+	width: 165px;
+    border-radius: 12%;
+    padding-left: 650px;
+    padding-top: 18px;
+}
+
+.juego1 img{
+	width: 198px;
+    padding-left: 979px;
+    margin-top: -402px;
+    margin-left: 92px;
+}
+
+.regreso a{
+	color: black;
+	padding-top: 43px;
+    float: left;
+    margin-left: 20px;
+    font-size: 33px;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+.regreso a:hover{
+	color: #88001b;
+}
+
+
+footer{
+	margin-top: 334px;
+    width: 95%;
+    height: 168%;
+    background-color: #88001b;
+    padding: 32px;
+}
+
+.redes i{
+	color:  #ffffff;
+}
+
+.redes li{
+	list-style: none;
+    text-decoration: none;
+    float: right;
+    margin-right: 332px;
+    font-size: 31px;
+}
+
+.redes i:hover{
+	color:  #a2c3c3;
+}s
